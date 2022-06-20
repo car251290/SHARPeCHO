@@ -1,0 +1,10 @@
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Data/bin/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Data.deps.json
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Data/bin/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Data.dll
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Data/bin/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Data.pdb
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Data/obj/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Data.csproj.AssemblyReference.cache
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Data/obj/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Data/obj/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Data.AssemblyInfoInputs.cache
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Data/obj/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Data.AssemblyInfo.cs
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Data/obj/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Data.csproj.CoreCompileInputs.cache
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Data/obj/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Data.dll
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Data/obj/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Data.pdb

@@ -1,0 +1,13 @@
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Api/bin/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Api.deps.json
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Api/bin/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Api.dll
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Api/bin/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Api.pdb
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Api/bin/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Data.dll
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Api/bin/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Data.pdb
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Api/obj/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Api.csproj.AssemblyReference.cache
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Api/obj/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Api/obj/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Api.AssemblyInfoInputs.cache
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Api/obj/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Api.AssemblyInfo.cs
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Api/obj/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Api.csproj.CoreCompileInputs.cache
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Api/obj/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Api.csproj.CopyComplete
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Api/obj/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Api.dll
+/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Api/obj/Debug/netcoreapp3.1/SharpEcho.CodeChallenge.Api.pdb

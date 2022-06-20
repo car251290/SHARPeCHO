@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Api/SharpEcho.CodeChallenge.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Api/SharpEcho.CodeChallenge.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Api/SharpEcho.CodeChallenge.Api.csproj",
+        "projectName": "SharpEcho.CodeChallenge.Api",
+        "projectPath": "/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Api/SharpEcho.CodeChallenge.Api.csproj",
+        "packagesPath": "/Users/javi/.nuget/packages/",
+        "outputPath": "/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/javi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Data/SharpEcho.CodeChallenge.Data.csproj": {
+                "projectPath": "/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Data/SharpEcho.CodeChallenge.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Data/SharpEcho.CodeChallenge.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Data/SharpEcho.CodeChallenge.Data.csproj",
+        "projectName": "SharpEcho.CodeChallenge.Data",
+        "projectPath": "/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Data/SharpEcho.CodeChallenge.Data.csproj",
+        "packagesPath": "/Users/javi/.nuget/packages/",
+        "outputPath": "/Users/javi/Desktop/SharpEcho.CodeChallenge/SharpEcho.CodeChallenge.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/javi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
