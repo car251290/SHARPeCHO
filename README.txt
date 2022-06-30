@@ -1,6 +1,3 @@
-Overview
- This project is intended to track matches (or games) played for any arbitrary sport but is incomplete.
-
 This project contains the following components:
 
  Framework level
