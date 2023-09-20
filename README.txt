@@ -1,5 +1,7 @@
 This project contains the following components:
 
+ <img style="width: 15%;height:15%;" src="https://static.cdnlogo.com/logos/c/27/c.svg"> 
+
  Framework level
   SharpEcho.CodeChallenge.Api - This is an implementation of a generic REST API that maps HTTP actions to CRUD operations
   SharpEcho.CodeChallenge.Data - This implements a generic repository and implements CRUD operations on tables following the convention that there is a primary key called Id
