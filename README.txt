@@ -1,6 +1,6 @@
-This project contains the following components:
 
- <img style="width: 15%;height:15%;" src="https://static.cdnlogo.com/logos/c/27/c.svg"> 
+
+This project contains the following components:
 
  Framework level
   SharpEcho.CodeChallenge.Api - This is an implementation of a generic REST API that maps HTTP actions to CRUD operations
@@ -12,9 +12,9 @@ This project contains the following components:
 
 Please implement the following:
  1. Functionality to record a match between two teams.
-   a. The result of a match will need to be tracked.  For instance, the Dallas Cowboys played the Atlanta Falcons on 9/20 and the Cowboys won (it is uncessary to track the score - assume no ties are allowed).
- 2. The capability to get the overall win-loss for matches between two teams.  For instance, the Cowboys have Falcons have played each other 28 times and the Cowboys have won 17 times.
- 4. Create unit tests for any of the above features, add units tests to cover functionality that is that provided automatically at the framework level (see existing Api.Team.Tests which only impements tests for which actual application code was written).
+   a. The result of a match will need to be tracked.  For instance, the Dallas Cowboys played the Atlanta Falcons on 9/20 and the Cowboys won (it is unnecessary to track the score - assume no ties are allowed).
+ 2. The capability to get the overall win-loss for matches between two teams.  For instance, the Cowboys and Falcons have played each other 28 times and the Cowboys have won 17 times.
+ 4. Create unit tests for any of the above features, and add unit tests to cover functionality that is provided automatically at the framework level (see existing Api.Team.Tests which only implement tests for which actual application code was written).
  5. Create a client (can be any client - could be a console app or web app, etc. - that hits the API that does the following:
   a. Adds two teams: Dallas Cowboys and Atlanta Falcons 
   b. Records 28 matches between the 2 teams, with the Cowboys winning 17 of the matches
